@@ -1,2 +1,2 @@
 # hello-word
-nothinhg for now.
+nothing for now.
